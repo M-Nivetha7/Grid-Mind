@@ -34,8 +34,10 @@ D --> E[Smoother Traffic Flow]
 ```
 
 🚀 Run Locally
+```
 git clone https://github.com/your-username/GridMind.git
 cd GridMind
 pip install pygame
 python main.py
+```
 
